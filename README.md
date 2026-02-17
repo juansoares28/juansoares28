@@ -68,12 +68,12 @@ I'm Juan from Brazil 🇧🇷<br><br>
 </div>
 
 <br/>
-
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juansoares28&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansoares28&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juansoares28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
 </div>
 
 <br/>

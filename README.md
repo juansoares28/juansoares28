@@ -71,7 +71,9 @@ I'm Juan from Brazil 🇧🇷<br><br>
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/juansoares28?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo&isocalendar=true&isocalendar.duration=half-year&languages=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size,percentage&languages.recent.categories=markup,programming,data,prose&languages.recent.load=300&languages.recent.days=14&config.display=large&theme=dark" alt="Metrics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juansoares28&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansoares28&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 <br/>

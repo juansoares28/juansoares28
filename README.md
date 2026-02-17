@@ -73,8 +73,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juansoares28 &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=juansoares28 &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansoares28&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansoares28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juansoares28&theme=tokyonight&hide_border=true" />
 </div>
 
 ###
